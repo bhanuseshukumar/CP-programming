@@ -1,0 +1,22 @@
+First ICPC 1970
+Reginal ICPC 
+First final at ACM computer science conference 1977
+The UVa Online Judge for ICPC problems
+Start exploring at college level https://icpc.global
+
+Repeat for a lifetime: Study; Practice; Rehearse; Dress Rehearse; Perform.
+ICPC International Collegiate Programming Contest
+
+It's not a secret that thoughts lead to dreams.
+
+//todo
+The Programming Contest Training Manual” [53], coauthored with
+Steven Skiena Miguel Revilla
+
+Fredrik Niemel¨ author of KATTIS ANOTHER ONLINE  WHICH ENSURES QUALITY OF PROBLEMS AND ABSOLUTE CORRECTNESS.
+
+There are numerous
+programming contests for those who are no longer eligible for ICPC, including Google
+CodeJam, Facebook Hacker Cup, TopCoder Open, CodeForces contest, Internet Problem Solving Contest (IPSC),
+
+The book assumes reader has basic programming knowledge ad
